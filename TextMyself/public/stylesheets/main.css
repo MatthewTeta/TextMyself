@@ -24,3 +24,17 @@ button {
     -o-transform: rotate(-2deg);
     transform: rotate(-2deg);
 }
+
+.send-button {
+    background-color: #bdc3c7;
+    border: 4px solid #DDE0E3;
+    padding: 0.75em;
+    padding-right: 1em;
+    padding-left: 1em;
+    border-radius: 100px;
+    width: 10%;
+    -webkit-transform: rotate(-2deg);
+    -ms-transform: rotate(-2deg);
+    -o-transform: rotate(-2deg);
+    transform: rotate(-2deg);
+}
