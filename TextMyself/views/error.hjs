@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>404</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1 style="text-align: center; font-family: arial">{{ message }}</h1>
+    <h1 style="text-align: center; arial">{{ error.status }}</h1>
+  </body>
+</html>
