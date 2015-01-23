@@ -5,6 +5,7 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1>Sent: {{ message }}</h1>
+    <h1>Sent</h1><br>
+    <h2 style="word-wrap: break-word;">{{ message }}</h2>
   </body>
 </html>

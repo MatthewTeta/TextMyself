@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ phone }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel="stylesheet" href="/stylesheets/main.css">
+  </head>
+  <body>
+    <h1>Text {{ phone }}</h1>
+    <form method="get">
+      <input type="text" name="message" placeholder="Message" class="message-box" maxlength="160"><br>
+      <input type="submit" value="Send" class="submit-button">
+    </form>
+    <p></p>
+  </body>
+</html>

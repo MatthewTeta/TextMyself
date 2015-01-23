@@ -5,7 +5,7 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1 style="text-align: center; font-family: arial">{{ message }}</h1>
     <h1 style="text-align: center; arial">{{ error.status }}</h1>
+    <p style="text-align: center;"><img src="../images/404.jpg" alt="Cuteness" style="width: 75%; height: 75%;"><br>By Gaurav Pandit (Own work) [<a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>], <a href="http://commons.wikimedia.org/wiki/File%3ACat_Cute.JPG">via Wikimedia Commons</a></p>
   </body>
 </html>
