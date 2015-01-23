@@ -9,6 +9,6 @@
   <body>
     <h1>Sent</h1><br>
     <h2 style="word-wrap: break-word;">{{ message }}</h2>
-    <button class="back-button">Back</button>
+    <button class="back-button" type="button">Back</button>
   </body>
 </html>
