@@ -3,9 +3,12 @@
   <head>
     <title>Sent!</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="js/button.js"></script>
   </head>
   <body>
     <h1>Sent</h1><br>
     <h2 style="word-wrap: break-word;">{{ message }}</h2>
+    <button class="back-button">Back</button>
   </body>
 </html>
